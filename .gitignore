@@ -3,4 +3,5 @@ __pycache__
 .ipynb_checkpoints
 .DS_Store
 .dist
-
+tenenv/
+tensorflow-1-submodule
